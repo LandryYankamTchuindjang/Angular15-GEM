@@ -1,0 +1,29 @@
+{
+    "enterprises":[{
+        "id":1,
+        "nameEnterprise":"General enterprises Managment",
+        "location":"Yaounde/Melen",
+        "contact":"651811185/656682014"
+    }],
+
+    "employers":[],
+
+    "visitors":[],
+    
+    "administrators":[{
+        "id":1,
+        "login":"yann",
+        "password":"lann",
+        "person":{
+            "id":1,
+            "name":"Yankam",
+            "firstname":"Landry",
+            "sex":"M",
+            "birthday":"none",
+            "adress":{
+                "id":1,"town":"Yaounde","email":"landryankam@gmail.com","quarter":"melen","phone":"none"
+            }
+        }
+    }]
+}
+
